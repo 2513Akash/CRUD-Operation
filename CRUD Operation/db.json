@@ -1,0 +1,93 @@
+{
+  "user": [
+    {
+      "name": "Akash",
+      "address": "Kodichikkanahalli",
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "dateOfBirth": "15-11-2003",
+      "language": "kannada"
+    },
+    {
+      "name": "kumar",
+      "address": "btm",
+      "state": "Karnataka",
+      "district": "bengaluru",
+      "dateOfBirth": "2024-12-17",
+      "language": "tamil",
+      "id": "813e"
+    },
+    {
+      "name": "Micheal",
+      "address": "manipur",
+      "state": "manipur",
+      "district": "unknown",
+      "dateOfBirth": "2024-12-24",
+      "language": "manipuri",
+      "id": "bd23"
+    },
+    {
+      "id": "7d42",
+      "name": "ram",
+      "address": "kodichiakkanahalli, rotary Nagar, 3rd cross, home no-1224",
+      "state": "tamil nadu",
+      "district": "chennai",
+      "dateOfBirth": "2024-12-26",
+      "language": "tamil"
+    },
+    {
+      "name": "karthik",
+      "address": "kodichiakkanahalli, rotary Nagar, 3rd cross",
+      "state": "Karnataka",
+      "district": "mysore",
+      "dateOfBirth": "2024-12-11",
+      "language": "Tamil",
+      "id": "3a53"
+    },
+    {
+      "id": "617c",
+      "name": "Kiran",
+      "address": "virat nagar",
+      "state": "Karnataka",
+      "district": "bengaluru",
+      "dateOfBirth": "2024-12-25",
+      "language": "kannada"
+    },
+    {
+      "name": "Sham",
+      "address": "kodichiakkanahalli, rotary Nagar, 3rd cross",
+      "state": "Andhra Pradesh",
+      "district": "Hyderabad",
+      "dateOfBirth": "2024-12-16",
+      "language": "tamil",
+      "id": "a070"
+    },
+    {
+      "id": "86d8",
+      "name": "kaushik",
+      "address": "coorg, shanivarsanthe",
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "dateOfBirth": "2024-12-18",
+      "language": "kannada"
+    },
+    {
+      "id": "2a29",
+      "name": "joel",
+      "address": "electronic city",
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "dateOfBirth": "2024-12-19",
+      "language": "English"
+    },
+    {
+      "name": "madan",
+      "address": "chandapura",
+      "state": "Karnataka",
+      "district": "Bengaluru",
+      "dateOfBirth": "2024-12-12",
+      "language": "Hindi",
+      "id": "37a4"
+    }
+  ]
+}
